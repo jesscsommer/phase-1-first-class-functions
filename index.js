@@ -16,7 +16,7 @@ function receivesAFunction(bookReview, book, rating){
 
 
 function returnsANamedFunction(){
-    return bookReview;
+    return receivesAFunction;
 }
 
 function returnsAnAnonymousFunction(){
